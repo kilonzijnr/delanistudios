@@ -1,0 +1,23 @@
+.intro {
+ text-align: center;   
+}
+h1 {
+text-align: center;
+}
+.welcome-text{
+    background-image: url(../images/backgrounds/h_img.jpg);
+    background-size:100%;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    text-align: center;
+    padding-top: 160px;
+    padding-bottom: 10px;
+}
+.mouse{
+    text-align: center;
+    padding-top: 50px;
+}
