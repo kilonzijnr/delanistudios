@@ -14,10 +14,17 @@ text-align: center;
 
 .logo{
     text-align: center;
-    padding-top: 160px;
-    padding-bottom: 10px;
+    padding-top: 50px;
+    padding-bottom: 5px;
 }
 .mouse{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+.about{
+    text-align: center;
+}
+.services{
+    background-image: url(../images/backgrounds/c_image.jpg);
 }
