@@ -32,3 +32,81 @@ text-align: center;
     background-size: cover;
     background-size: 100% 100%;
 }
+.contactus{
+    background-image: url("../images/backgrounds/c_image.jpg");
+    text-align: center;
+}
+.dark {
+    background-image: url("../images/portfolio/work4.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+  }
+  .security {
+    background-image: url("../images/portfolio/work3.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    
+  }
+  .design1 {
+    background-image: url("../images/portfolio/work2.jpg");
+    background-size: cover;
+    width: 100% ;
+    height: 300px;
+  }
+
+  .streaming {
+    background-image: url("../images/portfolio/work1.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    
+  }
+  .day {
+    background-image: url("../images/portfolio/work5.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 100%
+  }
+  .sound {
+    background-image: url("../images/portfolio/work6.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+  }
+  .logomaker {
+    background-image: url("../images/portfolio/work8.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+  }
+  .bailey {
+    background-image: url("../images/portfolio/work7.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+  }
+
+  .form {
+      text-align: center;
+      background-image: url("../images/backgrounds/s_image.jpg");
+  }
+  .textarea1 {
+    width: 70%;
+    height: 235px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 4px;
+    background: transparent;
+    font-size: 16px;
+    resize: none;
+    outline: none;
+}
+.name{
+    background: transparent;
+}
+.submit{
+    color: thistle;
+}
