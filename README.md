@@ -1,9 +1,9 @@
-#### This is a website that assigns the user an Akan name. Akan names are originated from Ghanian culture .The user gets the fisrt name according to the day of the week they were born and their gender too.
+#### This is a website where different designs are offered to the user on different webpages.
 2021
 
 #### By **VICTOR KILONZI**
 ## Description
-{This is a website that assigns the user an Akan name on the basis of the birth day and their gender when the user keys in the required details to it.}
+{This website displays different webstyles to the user as well as offering theuser a chance to request for desired designs.There are several templates that are attached to the website that show different webstyle templates.}
 ## Setup/Installation Requirements
 * Make sure your device has internet connectivity. 
 * Clone the repository.
